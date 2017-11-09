@@ -2,3 +2,5 @@ this is a file added by master
 added this line as well
 this line was added by feature-a
 this line was added by feature-b
+I've added this line
+
